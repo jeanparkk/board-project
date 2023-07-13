@@ -22,3 +22,6 @@ spring:
       ddl-auto: update
     show-sql: true
     database: mysql
+
+
+test: testcommit
